@@ -1,7 +1,11 @@
 # Millisampler Logs
 This repo contains a portion of the dataset (1-hour) collected by Millisampler tool to characterize data centers traffic at 1ms time-scale.
 Please cite our IMC 2022 paper if you use this dataset:  
+
+Ehab Ghabashneh, Yimeng Zhao, Cristian Lumezanu, Neil Spring, Srikanth Sundaresan, and Sanjay Rao. 2022. A microscopic view of bursts, buffer contention, and loss in data centers. In Proceedings of the 22nd ACM Internet Measurement Conference (IMC '22). Association for Computing Machinery, New York, NY, USA, 567–580.    
+
 [![doi](https://img.shields.io/badge/DOI-10.1145%2F3517745.3561430-brightgreen)](https://dl.acm.org/doi/abs/10.1145/3517745.3561430)
+
 
 ## Filename Convention
 We used the following convetion to name the log files:
