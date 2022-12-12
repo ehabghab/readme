@@ -5,10 +5,9 @@ Please cite our IMC 2022 paper if you use this dataset:
 
 ## Filename Convention
 For log naming we used the following convetion:
-
 ```rackId_<randomId>_hostId_<randomId>```  
 All hosts within the same rack will have the same rackId.  
-Please note that hostId does NOT represent the number of servers in the rack.
+**Please note that hostId does NOT represent the number of servers in the rack.
  
 
   
